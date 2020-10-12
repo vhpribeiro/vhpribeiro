@@ -10,6 +10,7 @@
     <br>
     <img width="35%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
     <br>
+    <br>
     Love talking/writing about DDD, TDD, Design Patterns and Message Broker - Rabbit S2
     <br>
   </samp>
@@ -20,8 +21,4 @@
   <a href="https://www.linkedin.com/in/vitor-hugo-pereira-ribeiro-b0874a133/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vitor Ribeiro's Linkedin Profile" height="30" width="30">
   </a>
-</p>
-
-<p align="center">
-  
 </p>
