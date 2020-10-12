@@ -11,9 +11,6 @@
     <br>
   </samp>
   <br>
-  <br>
-  <br>
-  <br>
   <a href="https://medium.com/@vitorpereiraribeiro_40127">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Vitor Ribeiro's Medium Profile" height="30" width="30">
   </a>
